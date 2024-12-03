@@ -30,6 +30,3 @@ class CircleShape(pygame.sprite.Sprite):
             return False
         else:
             return True
-
-
-
